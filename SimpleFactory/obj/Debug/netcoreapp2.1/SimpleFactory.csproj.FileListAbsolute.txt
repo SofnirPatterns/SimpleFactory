@@ -1,0 +1,11 @@
+D:\Dev\Patterns\SimpleFactory\SimpleFactory\bin\Debug\netcoreapp2.1\SimpleFactory.deps.json
+D:\Dev\Patterns\SimpleFactory\SimpleFactory\bin\Debug\netcoreapp2.1\SimpleFactory.runtimeconfig.json
+D:\Dev\Patterns\SimpleFactory\SimpleFactory\bin\Debug\netcoreapp2.1\SimpleFactory.runtimeconfig.dev.json
+D:\Dev\Patterns\SimpleFactory\SimpleFactory\bin\Debug\netcoreapp2.1\SimpleFactory.dll
+D:\Dev\Patterns\SimpleFactory\SimpleFactory\bin\Debug\netcoreapp2.1\SimpleFactory.pdb
+D:\Dev\Patterns\SimpleFactory\SimpleFactory\obj\Debug\netcoreapp2.1\SimpleFactory.csprojAssemblyReference.cache
+D:\Dev\Patterns\SimpleFactory\SimpleFactory\obj\Debug\netcoreapp2.1\SimpleFactory.csproj.CoreCompileInputs.cache
+D:\Dev\Patterns\SimpleFactory\SimpleFactory\obj\Debug\netcoreapp2.1\SimpleFactory.AssemblyInfoInputs.cache
+D:\Dev\Patterns\SimpleFactory\SimpleFactory\obj\Debug\netcoreapp2.1\SimpleFactory.AssemblyInfo.cs
+D:\Dev\Patterns\SimpleFactory\SimpleFactory\obj\Debug\netcoreapp2.1\SimpleFactory.dll
+D:\Dev\Patterns\SimpleFactory\SimpleFactory\obj\Debug\netcoreapp2.1\SimpleFactory.pdb
